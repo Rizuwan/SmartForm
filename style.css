@@ -6,6 +6,18 @@
 .btnRight{
   float:right;
 }
-
-.question {
-display: none;
+#q1,#q2,#q2a,#q2b,#q2c,#q3,#thanks{
+  display: none;
+}
+.question{
+  display: none;
+}
+#welcome{
+  display: block;
+}
+.AnswerDIv{
+  display: none;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
